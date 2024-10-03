@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Top Meme Coin</string>
+    <string name="coin_name">Coin Name</string>
+    <string name="description">Description</string>
+
+    <string name="name_label">Alfeus Martinus</string>
+    <string name="email_label">feusmartinus@gmail.com</string>
+
+    <string-array name="data_coin_name">
+        <item>Dogecoin ($DOGE)</item>
+        <item>Shiba Inu ($SHIB)</item>
+        <item>Pepe ($PEPE)</item>
+        <item>dogwifhat ($WIF)</item>
+        <item>DOGS ($DOGS)</item>
+        <item>Turbo ($TURBO)</item>
+        <item>SUNDOG ($SUNDOG)</item>
+        <item>Hamster Kombat ($HMSTR)</item>
+        <item>MAGA ($TRUMP)</item>
+        <item>BOBO ($BOBO)</item>
+        <item>Degen ($DEGEN)</item>
+        <item>TokenFi ($TOKEN)</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Dogecoin is a decentralized, peer-to-peer digital currency that enables you to easily send money online. Originally started as a "joke currency" featuring the Shiba Inu dog from the "Doge" meme, it has grown into one of the most recognized cryptocurrencies, widely used for tipping content creators and for various online transactions.</item>
+        <item>Shiba Inu is an Ethereum-based cryptocurrency token that was created as an experiment in decentralized community building and a fun take on the "meme coin" trend. Inspired by Dogecoin, Shiba Inu has established itself with a strong community and ecosystem, including decentralized exchanges and non-fungible tokens (NFTs).</item>
+        <item>Pepe is a meme-inspired cryptocurrency that takes its name from the popular "Pepe the Frog" meme. It is part of a growing list of meme-based cryptocurrencies that aim to engage communities through humor, art, and online culture, building an economy around internet-driven trends.</item>
+        <item>dogwifhat is a meme coin that combines elements of internet culture and humor, inspired by popular online trends and the playful nature of meme cryptocurrencies. It embodies the light-hearted spirit of the crypto community, aiming to attract enthusiasts with its fun and engaging concept.</item>
+        <item>DOGS is a cryptocurrency project centered around the theme of dogs, appealing to pet lovers and crypto enthusiasts alike. It leverages the popularity of animal-themed meme coins and strives to build a community-driven ecosystem with various utilities and applications in the crypto space.</item>
+        <item>Turbo is a meme-based cryptocurrency that aims to offer fast transactions and a simplified user experience. It has emerged as part of the trend of meme coins that emphasize speed, fun, and engagement with the crypto community, attracting those looking for quick and entertaining investments.</item>
+        <item>SUNDOG is a meme coin that draws inspiration from both the world of cryptocurrencies and the love for pets, particularly dogs. It focuses on building a community that enjoys the humor and playful nature of meme culture while participating in the evolving digital currency landscape.</item>
+        <item>HMSTR (Hamster) is a meme coin that taps into the internet’s fascination with cute and quirky animals. It brings a light-hearted approach to cryptocurrency investing, aiming to create a fun and engaging experience for its community through memes, games, and decentralized finance (DeFi) utilities.</item>
+        <item>MAGA is a cryptocurrency that has emerged with a political theme, taking inspiration from the "Make America Great Again" slogan. It aims to combine political engagement with the world of cryptocurrencies, allowing supporters to express their beliefs while participating in the digital economy.</item>
+        <item>BOBO is a meme-inspired cryptocurrency that plays on the idea of bears in the crypto market, representing the downturn or "bearish" trends. It caters to a niche audience that enjoys market humor and aims to create a community around the ups and downs of the crypto world.</item>
+        <item>Degen is a slang term for "degenerate" in the crypto community, often used to describe high-risk traders or those who invest in speculative assets. The Degen coin embraces this culture, offering a platform for adventurous investors looking to explore volatile and high-reward opportunities.</item>
+        <item>TokenFi is a cryptocurrency project that focuses on providing decentralized finance (DeFi) solutions and tokenization services. It aims to bridge the gap between traditional finance and blockchain technology, offering users a wide range of financial services through a decentralized platform.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://s2.coinmarketcap.com/static/img/coins/64x64/74.png</item>
+        <item>https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png</item>
+        <item>https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png</item>
+        <item>https://s2.coinmarketcap.com/static/img/coins/64x64/28752.png</item>
+        <item>https://s2.coinmarketcap.com/static/img/coins/64x64/32698.png</item>
+        <item>https://s2.coinmarketcap.com/static/img/coins/64x64/24911.png</item>
+        <item>https://s2.coinmarketcap.com/static/img/coins/64x64/32717.png</item>
+        <item>https://s2.coinmarketcap.com/static/img/coins/64x64/32195.png</item>
+        <item>https://s2.coinmarketcap.com/static/img/coins/64x64/27872.png</item>
+        <item>https://s2.coinmarketcap.com/static/img/coins/64x64/25269.png</item>
+        <item>https://s2.coinmarketcap.com/static/img/coins/64x64/30096.png</item>
+        <item>https://s2.coinmarketcap.com/static/img/coins/64x64/28299.png</item>
+    </string-array>
+
+    <string-array name="data_name_coin">
+        <item>Market cap : $17,495,385,720</item>
+        <item>Market cap : $10,772,908,042</item>
+        <item>Market cap : $4,589,463,370</item>
+        <item>Market cap : $2,414,649,611</item>
+        <item>Market cap : $402,205,964</item>
+        <item>Market cap : $372,621,352</item>
+        <item>Market cap : $327,567,891</item>
+        <item>Market cap : $366,267,472</item>
+        <item>Market cap : $122,725,250 </item>
+        <item>Market cap : $71,233,020</item>
+        <item>Market cap : $63,880,296</item>
+        <item>Market cap : $58,283,307</item>
+    </string-array>
+
+    <string-array name="data_long_desc">
+        <item>Dogecoin (DOGE) is based on the popular "doge" Internet meme and features a Shiba Inu on its logo. The open-source digital currency was created by Billy Markus from Portland, Oregon and Jackson Palmer from Sydney, Australia, and was forked from Litecoin in December 2013. Dogecoin\'s creators envisaged it as a fun, light-hearted cryptocurrency that would have greater appeal beyond the core Bitcoin audience, since it was based on a dog meme. Tesla CEO Elon Musk posted several tweets on social media that Dogecoin is his favorite coin</item>
+        <item>Shiba Inu (SHIB), a decentralized cryptocurrency, quickly gained global popularity since its launch by the anonymous "Ryoshi" in August 2020. This Ethereum-based token became a phenomenon, attracting investors with its playful nature and attention from figures like Elon Musk and Vitalik Buterin. Despite Ryoshi’s anonymity, SHIB\'s meteoric rise led to its acceptance as payment at various locations. Now, SHIB trades on its decentralized exchange, ShibaSwap, solidifying its role in the crypto world</item>
+        <item>PEPE is a deflationary memecoin launched on Ethereum as a tribute to the Pepe the Frog internet meme created by Matt Furie. Capitalizing on the success of meme coins like Shiba Inu and Dogecoin, PEPE aims to establish itself as one of the top meme-based cryptocurrencies. With no taxes and no real utility, PEPE appeals to the crypto community through its simplicity. In April to May 2023, PEPE saw a sharp rise, reaching a market cap of 1.6 billion, creating millionaires out of early holders and attracting a strong following.</item>
+        <item>Dogwifhat (WIF) is a Solana-based memecoin that has gained significant traction in the cryptocurrency market due to its playful branding and growing community support. Launched as a homage to internet meme culture, particularly focusing on the popularity of dog-themed meme coins, WIF has rapidly climbed in market capitalization, even surpassing some major tokens like Filecoin. With a circulating supply of nearly 1 billion WIF tokens and no specified maximum supply, its recent price surge in 2023 has positioned it as one of the top memecoins. Despite being a speculative asset with no inherent utility, WIF has attracted a large following, benefiting from a strong market sentiment and frequent social media attention.</item>
+        <item>Dogs Community is a vibrant, community-driven initiative built on the TON Blockchain, designed to leverage Telegram\'s vast user base and native meme culture. Centered around a beloved dog mascot originally created by Telegram\'s founder, the project aims to introduce millions to blockchain technology through tokenized stickers, fostering a fun and engaging ecosystem with a focus on community ownership and fair rewards distribution</item>
+        <item>This first ever memecoin created by AI. Turbo Token began as a bold experiment in cryptocurrency creation. Inspired by the power of artificial intelligence, the project\'s founder turned to GPT-4 with a simple challenge: create the next great meme coin. A memecoin made by AI for the people</item>
+        <item>SUN DOG, THE BIGGEST DOG MEME ON TRON, EVERY CHAIN NEEDS ITS DOG, EVERY DOG HAS ITS DAY. EVERYTHING IS JUST FINE, SUN DOG IS VERY SERIOUS DOG, BRINGS MANY SUNSHINES, MANY FUN AND MUCH LOVE TO TRON</item>
+        <item>Hamster Kombat is a cryptocurrency-based clicker game that has garnered attention for its engaging gameplay and integration with the digital currency ecosystem. This game combines elements of strategy, management, and earning through play, appealing to a wide range of players interested in the crypto space. In Hamster Kombat, players have the opportunity to earn and trade in-game coins for tokens, introducing a real-world value aspect to the gaming experience. This feature not only enhances engagement by providing tangible rewards for gameplay but also introduces players to the basics of cryptocurrency trading and management within a controlled, game-based environment. Additionally, the game offers passive income opportunities through collectible cards, adding another layer of strategy and investment potential. These collectible cards can be acquired within the game and potentially increase in value, offering players a way to earn by holding valuable assets, much like traditional cryptocurrency investments. The game has been listed on various platforms, indicating its growing popularity and acceptance within the cryptocurrency community. Its presence on these platforms not only makes it more accessible to a wider audience but also legitimizes its place in the crypto gaming world. With plans for various updates and features in the coming years, Hamster Kombat is poised for continued growth. These future developments are expected to enhance the gameplay experience, introduce new ways to earn and trade within the game, and potentially attract a larger player base. It\'s important for players and investors to conduct thorough research and consider the risks before engaging with cryptocurrency-based games. While these platforms offer unique opportunities for earning and entertainment, the volatile nature of digital currencies means that there is also a risk of loss</item>
+        <item>MAGA Movement on the Blockchain</item>
+        <item>Bobo the Bear is a meme character associated with bear markets. The design of Bobo is based on Apu Apustaja, and sometimes Pepe the Frog. The name “Bobo“ was chosen in June 2018, and has become the official name for the character. Bobo is posted worldwide on Twitter, 4chan, but particularly on the /biz board (4chan). Bobo NFTs (Bobo Council) have been created. Bobo is used to satirize poor investment choices, and express pessimism in financial markets. Bobo is run by “rekt_teka$hi“ as well as other OG Bobo Meme artists, who have been creating Bobo content since its inception.</item>
+        <item>Degen started as a reward token for participants in the Farcaster Degen channel. What began as a meme coin now has a substantial following of developers, crypto content creators, and enthusiasts who have bought into the coin. During its initial launch, 15 percent of the total supply was airdropped to active members of the Farcaster Degen channel, with plans to eventually airdrop 70 percent of the total supply</item>
+        <item>TokenFi aims to simplify the crypto and asset tokenization process and eventually become the foremost tokenization platform in the world. The tokenization industry is projected to be a $16 trillion industry by the year 2030. BlackRock, the world’s biggest institutional investor with $10 trillion of assets under management, strongly believes in the industry’s potential, which they call "the next evolution in markets”. TokenFi is launched by the highly experienced and connected Floki team that launched the popular Floki token that went to an ATH valuation of $3.5 billion. They will be leveraging this same experience to make TokenFi the number one tokenization platform in the industry</item>
+    </string-array>
+
+
+</resources>
